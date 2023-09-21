@@ -31,35 +31,6 @@ This is a responsive admin dashboard built using **HTML 5**, **CSS 3** and **Jav
 
  Check out the live demo [here]().
 
-
-# Responsive Admin Dashboard Project
-
-This is a responsive admin dashboard built using **HTML 5**, **CSS 3** and **JavaScript**. Charts are built using **ApexCharts**.
-
-
-## Table of Contents 
-- [Prerequisites]
-- [Running the application]
-- [View the application]
-- [Credits]
-
-## Prerequisites
-
-Install the following prerequisites:
-
-* [Visual Studio Code](https://code.visualstudio.com/download) with the **Live Server** extension.
-
-**Live Server** allows us to launch a local development server that enables a live reload of our project.
-
-
-## Run the application
-
-To run the application, start the **Live Server** by clicking **Go Live** in the bottom right corner of the status bar in Visual Studio Code. This action will load the website in your default web browser. 
-
-
-## View the application
-
-Once the **Live Server** is up and running, go to http://127.0.0.1:5500/index.html to view the application.
-
 ## Credits
+
 The project was created by Melvin K J.
