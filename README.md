@@ -29,7 +29,7 @@ This is a responsive admin dashboard built using **HTML 5**, **CSS 3** and **Jav
 
 ## Live Demo
 
- Check out the live demo [here]().
+ Check out the live demo [here](https://melvin-project-1.netlify.app/).
 
 ## Credits
 
